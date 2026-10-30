@@ -1,0 +1,1 @@
+4517fbf697cf9c850c68ca51a2b76cfb6457449b053ae42f3ee01a0775ae5832  SSHDeck-macos-universal.zip
